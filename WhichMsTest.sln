@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhichMsTest", "WhichMsTest\WhichMsTest.csproj", "{5F268AEB-488F-48C1-A811-9C5237543755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhichMsTestTests", "WhichMsTestTests\WhichMsTestTests.csproj", "{90D340DE-D835-43A3-AE6B-6F431982FB2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{135D28A1-2746-4FC6-A2AE-01610DEC3F0B}"
+	ProjectSection(SolutionItems) = preProject
+		readme.adoc = readme.adoc
+		images\se1.png = images\se1.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F268AEB-488F-48C1-A811-9C5237543755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F268AEB-488F-48C1-A811-9C5237543755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F268AEB-488F-48C1-A811-9C5237543755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F268AEB-488F-48C1-A811-9C5237543755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D340DE-D835-43A3-AE6B-6F431982FB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D340DE-D835-43A3-AE6B-6F431982FB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D340DE-D835-43A3-AE6B-6F431982FB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D340DE-D835-43A3-AE6B-6F431982FB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AE64A9-C38D-4CEB-92FA-6143A63213B2}
+	EndGlobalSection
+EndGlobal

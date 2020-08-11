@@ -1,0 +1,13 @@
+= Which Version of MS Test?
+
+If you are using MsTest V2, you should see the following references in Solution Explorer:
+
+image::images/se1.png[Solution Explorer]
+
+You should also see a `using` statement as follows:
+
+[source,c#]
+----
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+----
+
